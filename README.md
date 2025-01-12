@@ -1,1 +1,9 @@
 # foodymart
+# about.html
+# index.html
+# feature.html
+# contact.html
+# testimonial.html
+# product.html
+# blog.html
+# 404.html
