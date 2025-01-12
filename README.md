@@ -1,4 +1,4 @@
-# foodymart
+# foody
 # about.html
 # index.html
 # feature.html
